@@ -3,7 +3,7 @@ Every NBA Draft lottery result, along with expected values, and analysis on resu
 
 NBA Draft Lottery History
 1985 - Lottery started, the 7 non-playoff teams were chosen in random order.
-1987- Only the first three picks were chosen by lottery, the remainder of the picks were determined by reverse standing.
+1987- Only the first three picks were chosen by lottery, the remainder of the picks were determined by reverse standing. 
 1989 - NBA expanded to 25, making 9 potential lottery teams
 1990- NBA expanded to 27, making 11 potential lottery teams. The weighted lottery was introduced, which gave teams with worst records better odds on getting a lottery pick.
 1995- NBA expanded to 29, making 13 potential lottery teams. The Vancouver Grizzlies and the Toronto Raptors were given the sixth and seventh pick.
