@@ -11,3 +11,11 @@ NBA Draft Lottery History
 2004 - NBA expanded to 30, making 14 potential lottery teams. The Charlotte Hornets however were elgible for the first pick the next year.
 2019- The lottery format changed to have 4 lottery picks instead of three. Odds were flattened as to prevent organizations from tanking.
 1995 and 2004 - The VAN and TOR picks in 1995 and CHA pick in 2004 were ignored since picks were given and not determined by lottery.
+
+
+
+Conclusions from regression data
+
+1. Change in winning percentage is statistically coorelated with lottery luck. Playoff success is not.
+2. The biggest outlier is the Golden State Warriors 1995 draft lottery in which they were ranked 5th pre draft and ended up with the first pick. Even though the lottery luck was high that year, they ended up with around the same record the following 8 years.
+3. The relationship between playoff success and lottery luck does not have normally distributed errors, indicating that it is not a liner relationship.
