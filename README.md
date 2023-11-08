@@ -10,7 +10,7 @@ NBA Draft Lottery History
 1996 - 1998 - The Grizzlies and Raptors participated in the lottery but were ineligible for the first pick.
 2004 - NBA expanded to 30, making 14 potential lottery teams. The Charlotte Hornets however were elgible for the first pick the next year.
 2019- The lottery format changed to have 4 lottery picks instead of three. Odds were flattened as to prevent organizations from tanking.
-1995 and 2004 - The VAN and TOR picks in 1995 and CHA pick in 2004 were ignored since picks were given and not determined by lottery.
+1995 and 2004 - The VAN and TOR picks in 1995 and CHA pick in 2004 were ignored since picks were given and not determined by lottery. 
 
 
 
